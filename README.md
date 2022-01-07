@@ -89,9 +89,12 @@ max_marks([88, 67, 77, 93, 95, 11, 67, 89, 56, 89])
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-![output]()
-![output]()
-![output]()
+#1
+![output](https://github.com/charansai0/FindMaximum/blob/main/Screenshot%20(210).png?raw=true)
+#2
+![output](https://github.com/charansai0/FindMaximum/blob/main/Screenshot%20(211).png?raw=true)
+#3
+![output](https://github.com/charansai0/FindMaximum/blob/main/Screenshot%20(212).png?raw=true)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
